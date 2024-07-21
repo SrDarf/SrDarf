@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/SrDarf">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=45F7D3&center=true&vCenter=true&lines=Howdy!+I'm+Suri+Your+Next+%F0%9F%91%8B;I'm+Full-stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=45F7D3&center=true&vCenter=true&lines=Howdy!+I'm+Suri+Your+Next+Developer+%F0%9F%91%8B;I'm+Full-stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </a>
 </p> 
