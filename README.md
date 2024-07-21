@@ -11,7 +11,6 @@
 
 ---
 
-<img align="right" src="https://www.faladev.com/assets/img/logo.svg" height="160px" />
 
  ・👦 I'm Suri<br>
  ・💻 A **Full-Stack** Developer<br>
