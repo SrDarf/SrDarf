@@ -8,7 +8,7 @@
 
 <h2 align="center">👋 Hi, I'm Suri</h2>
 <p align="center">
-  💻 A <strong>Full-Stack</strong> Developer<br>
+  💻 A <strong style='color:purple'>Full-Stack</strong> Developer<br>
 </p>
 
 ---
