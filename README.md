@@ -8,7 +8,7 @@
 
 <h2 align="center">👋 Hi, I'm Suri</h2>
 <p align="center">
-  💻 A <strong style='color:purple'>Full-Stack</strong> Developer<br>
+  💻 A <strong style="color:purple">Full-Stack</strong> Developer<br>
 </p>
 
 ---
@@ -55,3 +55,12 @@
     </a>
   </p>
 </details>
+
+---
+
+<h2 align="center">🌐 Check Out My Portfolio</h2>
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
