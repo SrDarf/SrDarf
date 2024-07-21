@@ -60,7 +60,7 @@
 
 <h2 align="center">🌐 Check Out My Portfolio</h2>
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="#" onclick='alert('Coming soon...') target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge" />
   </a>
 </p>
