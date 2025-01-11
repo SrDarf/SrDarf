@@ -47,16 +47,6 @@
   </p>
 </details>
 
-<details>
-  <summary>🔥 Github Streak 🔥</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/srdarf">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=srdarf&hide_border=false&theme=tokyonight" alt="GitHub Streak" />
-    </a>
-  </p>
-</details>
-
 ---
 
 <h2 align="center">🌐 Check Out My Portfolio</h2>
