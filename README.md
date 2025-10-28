@@ -56,4 +56,3 @@
   </a>
 </p>
 
-Deixe minimalista e profissional
