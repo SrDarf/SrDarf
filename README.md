@@ -138,5 +138,5 @@ Native desktop notifications from CLI hooks: Windows toasts and Linux notify-sen
 
 ## Elsewhere
 
-[![Portfolio](https://shieldcn.dev/badge/Portfolio.svg?color=%2318181b&logo=googlechrome&logoColor=white)](https://suri.squareweb.app/)
+[![Portfolio](https://shieldcn.dev/badge/Portfolio.svg?color=%2318181b&logo=googlechrome&logoColor=white)](https://suri.svps.com.br/)
 ![Profile views](https://shieldcn.dev/views/user/SrDarf.svg?color=%2318181b)
